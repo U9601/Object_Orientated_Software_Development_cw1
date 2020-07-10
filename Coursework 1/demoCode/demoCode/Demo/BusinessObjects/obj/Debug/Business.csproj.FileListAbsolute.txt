@@ -1,0 +1,15 @@
+D:\demoCode\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\demoCode\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Uni Work\C#\Coursework 1\demoCode\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
